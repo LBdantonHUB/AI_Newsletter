@@ -1,8 +1,11 @@
 # AI_Newsletter
 Updates :)
 
+
+
 Train - Predict - Optimize - Own it
 Local AI built around your data and systems
+
 
 We deliver applied machine learning and Local AI solutions that drive real-world operations, from early prototypes to full-scale deployment. Our systems integrate seamlessly into your existing infrastructure, enabling smarter decision-making and efficient automation across industries.
 
@@ -10,4 +13,6 @@ Our expertise spans predictive modeling, behavior forecasting, data-driven proce
 
 
 🔒 Private GitHub Projects: github.com/adg88lu
+
+
 🔐 contact: management@lbdanton.com
